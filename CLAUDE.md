@@ -40,7 +40,7 @@ JET. First serious effort to plan, record, and learn from gardening (not just do
 ## Tool stack
 | Tool | Role |
 |------|------|
-| **Airtable** | System of record — plant/variety database, beds, seasons, harvests, costs |
+| **Airtable** | System of record — [Rootstock base](https://airtable.com/appwFte1VIabLCu5A), live: Beds, Varieties, Seed Lots, Plantings, Harvests, Suppliers, Expenses |
 | **Notion** | Garden journal, photos, notes, lessons learned |
 | **Make** | Automation glue — e.g. iPhone photo → journal entry, calendar sync |
 | **Google Calendar** | Dedicated gardening calendar — seed order/start/transplant/harvest dates |
